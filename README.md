@@ -76,7 +76,7 @@ You are free to clone repository and open a new pull request with new informatio
 | <kbd>gl</kbd> | mark as read later                   |
 
 
-### Vim Emulations
+### Vim Emulations in Sites
 
 These are sites that support vim emulation in its editors, from movements to macros, etc.
 
@@ -87,3 +87,8 @@ These are sites that support vim emulation in its editors, from movements to mac
 - Google Colab
 - CoderPad
 - Codility
+
+### Vim in Desktop Applications
+
+- Obsidian (Note taker)
+- Insomnia (HTTP Client)
