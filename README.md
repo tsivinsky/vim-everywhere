@@ -78,6 +78,8 @@ You are free to clone repository and open a new pull request with new informatio
 
 ### Vim Emulations
 
+These are sites that support vim emulation in its editors, from movements to macros, etc.
+
 - Overleaf
 - HackerRank
 - LeetCode
