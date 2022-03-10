@@ -98,3 +98,8 @@ These are sites that support vim emulation in its editors, from movements to mac
 
 - Obsidian (Note taker)
 - Insomnia (HTTP Client)
+
+### Vim emulation in other text editors/IDEs
+
+- [vim for vscode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+- [neovim emulation for vscode](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
