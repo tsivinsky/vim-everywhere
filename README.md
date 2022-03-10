@@ -75,6 +75,13 @@ You are free to clone repository and open a new pull request with new informatio
 | <kbd>gi</kbd> | go to index             |
 | <kbd>gl</kbd> | mark as read later      |
 
+#### Stack Overflow
+
+| Shortcut     | What does it go?                                                     |
+| ------------ | -------------------------------------------------------------------- |
+| <kbd>j</kbd> | scrolls to next question (on main page) or answer (on question page) |
+| <kbd>k</kbd> | same as above but to previous question or answer                     |
+
 ### Vim Emulations in Sites
 
 These are sites that support vim emulation in its editors, from movements to macros, etc.
